@@ -1,0 +1,40 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+/*estilos nav*/
+.navbar {
+    height: 62px;
+} 
+#logoNav {
+    width: 86px;
+}
+/*estilos cards*/
+.card-body h5 {
+    color:#212529;
+    font-weight: 300;
+}
+.card-body .card-text {
+    color:#707070;
+    font-weight: 300;
+}
+/*estilos formulario*/
+.bg-success .container h5 {
+    font-weight: 500;
+    font-size: 1.3125em;
+}
+.container form .btn-lg {
+    font-size: 1em;
+    font-weight: 500;
+    padding-left: 2em;
+    padding-right: 2em;
+}
+/*estilos footer*/
+.logoFoot {
+    width: 82px;
+}
+footer p {
+    color:#707070;
+    font-weight: 300;
+}
+
+
